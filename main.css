@@ -10,7 +10,7 @@ body {
 
 @font-face {
     font-family: 'riffic';
-    src: url('font/RifficFree-Bold.ttf') format('truetype');
+    src: url('./imagens/RifficFree-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
